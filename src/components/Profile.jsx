@@ -11,7 +11,7 @@ export const Profile = () => {
         <h2 className={styles.name}>
           Фамилия и имя: <span>Василий Катков</span>
         </h2>
-        <p className={styles.id} style>
+        <p className={styles.id} >
           Id: <span>3</span>
         </p>
         <p className={styles.mail}>
